@@ -40,7 +40,7 @@ weight = 20
 
 [params]
 BookTheme = "dark"
-BookToC = false
+BookToC = true
 BookSection = "docs"
 BookRepo = "https://github.com/alex-shpak/hugo-book"
 BookEditPath = "edit/master/exampleSite"
