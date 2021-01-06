@@ -1,8 +1,8 @@
 baseURL = ""
-title = "Hugo Book"
+title = "GGC | Police Roleplay Regelwerk"
 theme = "book"
 disablePathToLower = true
-enableGitInfo = true
+enableGitInfo = false
 themesDir = "themes"
 publishDir = "public"
 
@@ -45,6 +45,6 @@ BookRepo = "https://github.com/alex-shpak/hugo-book"
 BookEditPath = "edit/master/exampleSite"
 BookDateFormat = "January 2, 2006"
 BookSearch = true
-BookComments = true
+BookComments = false
 BookPortableLinks = true
 BookServiceWorker = true
