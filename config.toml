@@ -5,10 +5,10 @@ disablePathToLower = true
 enableGitInfo = false
 themesDir = "themes"
 publishDir = "public"
-disableLanguages = 
+disableLanguages = ["ru", "zh"]
 
 [markup.goldmark.renderer]
-unsafe = true ["ru", "zh"]
+unsafe = true
 
 [markup.tableOfContents]
 startLevel = 1
