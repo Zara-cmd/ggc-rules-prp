@@ -5,9 +5,10 @@ disablePathToLower = true
 enableGitInfo = false
 themesDir = "themes"
 publishDir = "public"
+disableLanguages = 
 
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = true ["ru", "zh"]
 
 [markup.tableOfContents]
 startLevel = 1
@@ -38,7 +39,7 @@ url = "https://themes.gohugo.io/hugo-book/"
 weight = 20
 
 [params]
-BookTheme = "light"
+BookTheme = "dark"
 BookToC = true
 BookSection = "docs"
 BookRepo = "https://github.com/alex-shpak/hugo-book"
