@@ -29,13 +29,13 @@ contentDir = "content.zh"
 weight = 3
 
 [[menu.after]]
-name = "Github"
-url = "https://github.com/alex-shpak/hugo-book"
+name = "Forum"
+url = "https://ggc.lol/"
 weight = 10
 
 [[menu.after]]
-name = "Hugo Themes"
-url = "https://themes.gohugo.io/hugo-book/"
+name = "Impressum"
+url = "https://ggc.lol/index.php?legal-notice/"
 weight = 20
 
 [params]
